@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Virtual Classroom</title>
+  <style>
+    html, body, #jitsiContainer { height: 100%; margin: 0; padding: 0; }
+  </style>
+</head>
+<body>
+  <div id="jitsiContainer"></div>
+
+  <script src="https://meet.jit.si/external_api.js"></script>
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const room = urlParams.get('room');
+    
+    if (!room) {
+      document.body.innerHTML = "<h3 style='text-align:center;margin-top:20px;'>No class code provided.</h3>";
+      throw new Error("Missing room code");
+    }
+
+    const domain = "meet.jit.si";
+    const options = {
+      roomName: room,
+      parentNode: document.querySelector('#jitsiContainer'),
+      configOverwrite: {
+        startWithAudioMuted: false,
+        startWithVideoMuted: false,
+        prejoinPageEnabled: false,
+        disableInviteFunctions: true,
+        disableDeepLinking: true
+      },
+      interfaceConfigOverwrite: {
+        filmStripOnly: false,
+        SHOW_JITSI_WATERMARK: false
+      },
+      userInfo: {
+        displayName: "Participant"
+      }
+    };
+    const api = new JitsiMeetExternalAPI(domain, options);
+
+    api.executeCommand('toggleRaiseHand'); // example
+  </script>
+</body>
+</html>
