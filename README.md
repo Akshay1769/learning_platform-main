@@ -56,15 +56,6 @@ learning_platform-main/
 
 
 
-## ▶️ How to Run
-
- Clone the repository:
-
-```
-git clone https://github.com/Akshay1769/learning_platform-main.git
-cd learning_platform-main
-```
-
 
 
 
