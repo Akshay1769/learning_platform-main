@@ -45,16 +45,10 @@ learning_platform-main/
 
 ## 📸 Screenshots
 
-```
-<img width="1919" height="928" alt="Screenshot 2026-03-19 165411" src="https://github.com/user-attachments/assets/f86c14aa-a8eb-4c4a-95ea-2da70a918868" />
+<img width="1919" height="928" alt="Screenshot 2026-03-19 165411" src="https://github.com/user-attachments/assets/b785531f-dbad-4b3d-8459-e74966f85c24" />
 
 
-<img width="1917" height="931" alt="Screenshot 2026-03-19 165501" src="https://github.com/user-attachments/assets/f6e18fb0-fabe-422c-b720-72369dce9757" />
 
-
-<img width="1919" height="918" alt="Screenshot 2026-03-19 165557" src="https://github.com/user-attachments/assets/b6dee6a7-a61d-4166-87c4-e10bc752cd38" />
-
-```
 
 
 
