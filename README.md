@@ -48,11 +48,19 @@ learning_platform-main/
 > Add your project screenshots here
 
 ```
-<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/17e451b4-25a4-4bc5-8355-d1ce0ad2f7cc" />
+<h2>📸 Screenshots</h2>
 
-<img width="1917" height="931" alt="image" src="https://github.com/user-attachments/assets/1893737a-d2e7-4c9e-b327-b9fdacac2c44" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17e451b4-25a4" width="700"/>
+</p>
 
-<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/231b0d23-3d35-4113-a190-0fb4472cf395" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1893737a-d2e7" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/231b0d23-3d35" width="700"/>
+</p>
 
 
 ```
