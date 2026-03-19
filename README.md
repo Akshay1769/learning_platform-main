@@ -45,10 +45,14 @@ learning_platform-main/
 
 ## 📸 Screenshots
 
+##Landing Page
 <img width="1919" height="928" alt="Screenshot 2026-03-19 165411" src="https://github.com/user-attachments/assets/b785531f-dbad-4b3d-8459-e74966f85c24" />
 
+##Courses Page
+<img width="1917" height="931" alt="Screenshot 2026-03-19 165501" src="https://github.com/user-attachments/assets/3c11b35e-e77d-4d93-bc09-a6305f22f7b1" />
 
-
+##Live Classes Page
+<img width="1919" height="918" alt="Screenshot 2026-03-19 165557" src="https://github.com/user-attachments/assets/addded06-6982-4038-b875-f877f19fe823" />
 
 
 
