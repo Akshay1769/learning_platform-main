@@ -56,7 +56,7 @@ learning_platform-main/
 
 ```
 
----
+
 
 ## ▶️ How to Run
 
